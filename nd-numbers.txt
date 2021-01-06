@@ -1,0 +1,31 @@
+
+		-----------
+		| Numbers |
+		-----------
+
+The Two Dialects:
+(K-D) Kinzeeya - Dungulaweea.
+(F-M) Fadeega - Mahaseeya.
+
+                (K-D)          |  (F-M)
+01-One:       we,wairi         | we,waira
+02-Two:       owwi             | ow-wa
+03-Three:     tosks,toski      | lou'sko
+04-Four:      kemiso           | kemso
+05-Five:      dige'o           | dige'a
+06-Six:       gorige'o         | gorge'o
+07-Seven:     koled-ou         | koloda
+08-Eight:     idwo             | idwo 
+09-Nine:      iskodo           | oskoda 
+10-Ten:       dimen            | dime
+11-Eleven:    dimen-d-wair     | dimewaira
+12-Twelve:    dimen-d-ow-ow    | dime-r-ouwwo
+13-Thirteen:  dimen-d-tosko    | dime-tousko
+14-Fourteen:  dimen-d-kemso    | dime-kemso
+15-Fifteen:   dimen-d-dige'o   | dime-dige'a 
+16-Sixteen:   dimen-d-gorge'o  | dime-gorge'o 
+17-Seventeen: dimen-d-koledou  | dime-koloda 
+18-Eighteen:  dimen-d-idwo     | dime-r-oskoda
+19-Nineteen:  dimen-d-iskodo   | dime-r-oskoda 
+20-Twenty:    are              | aro
+
